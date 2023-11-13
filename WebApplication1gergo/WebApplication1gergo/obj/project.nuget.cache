@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1l2JKjkg/lrJdVGIRiqFMg2rSSr6hbTdmRXTJwx2VAJLZmF+jkmH8COukzXkL7gtBUJ0DAQmEWNFkiSAAcCkvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dezsoke\\source\\repos\\vsappger\\WebApplication1gergo\\WebApplication1gergo\\WebApplication1gergo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dezsoke\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
